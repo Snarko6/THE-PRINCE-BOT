@@ -15,7 +15,7 @@
      "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
        },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -25,7 +25,7 @@
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": ""
+      "value": "nnnnnnnnnnnnnnnnnnnwataspp"
        },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
@@ -50,7 +50,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWUlaZFA3Z0s2QWcrVUNvQ2Y2RGwwTG5KelZZMUp0SCt0K0EyejAySUYzZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSHZyV2pvLzNPc1lIQWRHdzUzWjZFT0FLQTFFbUkyTUFQWEtXTTVWNldpWT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJzSTFRNGtNbFNjL29tbXZRQlkyQ1A1WC9CWDdsS2FBbTVkSWhVVytucTBBPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJabVBMdWpPckhxLzR1cC8wTTlBTEhWbWl6TERWd2Z4Vk9Db3RnUWp0UEEwPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImtLVUNDYkcrV29DRUtybWM0cDhHdnlUb2tzYmlzQnBocDdCS0tmZUkyRkU9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IllaR3FJZGt3S2g4Tm80RDJYSXdPV2xWRHJCT01TalB6bXY3K1BkRmVpeVE9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoic0JRR3lrbUF0TWZjYWNWMGVFYjNQUHJGODNLNFNIcjdzU1ZoeDFPcFoyST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSzZSMlpEbnFXcjg5aktZN2RkeWlFWm45Y3pRWlVjZXlXeDFmbU9BTFAzVT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjRNWms0V1R5UzI1ODR2aVBna2lRck01R05uNzZ6NnYvUkVFQnVUNGcveTBwcGRrSzg1Rkl0NHJ2aTloeEpnTkp5VzA0RitVTng4WVcyN3VhZmloNWhBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTM0LCJhZHZTZWNyZXRLZXkiOiI0TXZHZ01ZRWcwREpzVHhhdHZqMlZnQmd6eUR5R21GUDVmb0ZjSHcraENFPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6OTcsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjo5NywiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJ4djRNQVlLMlI3YVR0UndaS3pGeGRRIiwicGhvbmVJZCI6IjYwMDkwY2FhLTIzMGQtNDBiMC1hNDhmLTFlNWZlM2FjODM5MiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI2N2FxSlBDcWlUNlRaNXlYMi9KZjhGU0hhYUk9In0sInJlZ2lzdGVyZWQiOmZhbHNlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IldmNDdXK1hIdmcyLzl0L2Vid2NqSU1yVitmOD0ifSwicmVnaXN0cmF0aW9uIjp7fSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ01McExCQ0kzcnl3QmhnUUlBQW9BQT09IiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IkVGTzlDTnVLbzAxYksrb200MVZzdXZvZk5ZY1JLeWtsVWZwd2F0T3FkRjQ9IiwiYWNjb3VudFNpZ25hdHVyZSI6IkFFVjdYclNUeU1uek5TTjVyNkVFaHNHamxydlBIUkFHUHo3MTZBMHBrRm5YL0Z0WTkwbEVpNmRGRHpHOGlUdTh2TE05QmlNcHNIak9vOHk1OUZpckRBPT0iLCJkZXZpY2VTaWduYXR1cmUiOiI3MnBoU2srWU5nZjZsSExRUXAwUHJDcHluMjZ1STRhaTM0U1kvcWpjVHFzVVh0ZGZralFjbzhKZVkyRGc1ek0wQnVaYitJdGlIL3NleURZRS9RVWZoUT09In0sIm1lIjp7ImlkIjoiMjAxMDk1NDk5ODY2OjQwQHMud2hhdHNhcHAubmV0IiwibmFtZSI6InNuYXJjby5pTC5iYXNoYSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMDEwOTU0OTk4NjY6NDBAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCUkJUdlFqYmlxTk5XeXZxSnVOVmJMcjZIeldIRVNzcEpWSDZjR3JUcW5SZSJ9fV0sInBsYXRmb3JtIjoic21iYSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcxMjI3MTUzMSwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFOS3UifQ=="
     }
     },
     "addons": [{ "plan": "heroku-postgresql:basic" }],
