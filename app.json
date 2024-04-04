@@ -25,7 +25,7 @@
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": "nnnnnnnnnnnnnnnnnnnwataspp"
+      "value": "nnnnnnnnnnnnnnnnnnnwatasp"
        },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
